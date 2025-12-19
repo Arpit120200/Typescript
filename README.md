@@ -21,6 +21,12 @@ clean function design.
 Each project is self-contained and can be run independently.
 
 ```bash
+# Go to Respective Project Folder
 cd FileName
+
+# Install dependencies
 npm install
+
+# Run using ts-node
 npx ts-node src/filename.ts
+
