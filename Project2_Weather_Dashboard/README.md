@@ -29,4 +29,5 @@ A CLI-based weather application built with TypeScript that fetches real-time dat
    OPENWEATHER_API_KEY=your_api_key_here
 
 ## Run
-npx ts-node src/index.ts
+```text
+   npx ts-node src/index.ts
