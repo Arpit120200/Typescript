@@ -22,7 +22,7 @@ A CLI-based weather application built with TypeScript that fetches real-time dat
 
 ## ⚙️ Setup
 1. Clone the repository.
-2. Navigate to this folder: `cd Project-2`.
+2. Navigate to this folder: `cd Project2_Weather_Dashboard`.
 3. Install dependencies: `npm install`.
 4. Create a `.env` file in this folder and add your API key:
    ```text
