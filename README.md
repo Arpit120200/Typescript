@@ -15,6 +15,7 @@ clean function design.
 | # | Project Name | Description |
 |---|-------------|-------------|
 | 01 | Typed To-Do Manager | Task manager with file persistence
+| 02 | Weather Dashboard | Real-time weather fetcher using external APIs.
 
 ## How to Run
 
