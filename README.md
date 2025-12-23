@@ -18,6 +18,7 @@ clean function design.
 | 02 | Weather Dashboard | Real-time weather fetcher using external APIs.
 | 03 | Expense Tracker | Financial logger with calculated balances and data protection.
 | 04 | Generic Inventory Management | A reusable warehouse system for different item categories.
+| 05 | Typed Quiz Engine | A CLI quiz engine with varying question formats.
 
 ## How to Run
 
