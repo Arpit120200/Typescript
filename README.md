@@ -19,6 +19,7 @@ clean function design.
 | 03 | Expense Tracker | Financial logger with calculated balances and data protection.
 | 04 | Generic Inventory Management | A reusable warehouse system for different item categories.
 | 05 | Typed Quiz Engine | A CLI quiz engine with varying question formats.
+| 06 | Shape Calculator | A geometric area calculator for multiple shapes.
 
 ## How to Run
 
