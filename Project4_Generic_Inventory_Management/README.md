@@ -17,7 +17,7 @@ A reusable warehouse management system built to demonstrate the power of **Gener
 ## ⚙️ Setup
 1. Navigate to the project folder:
    ```bash
-   cd Project-4
+   cd Project4_Generic_Inventory_Management
 
 ## Run
 ``` test
