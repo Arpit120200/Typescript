@@ -17,6 +17,7 @@ clean function design.
 | 01 | Typed To-Do Manager | Task manager with file persistence
 | 02 | Weather Dashboard | Real-time weather fetcher using external APIs.
 | 03 | Expense Tracker | Financial logger with calculated balances and data protection.
+| 04 | Generic Inventory Management | A reusable warehouse system for different item categories.
 
 ## How to Run
 
