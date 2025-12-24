@@ -20,6 +20,7 @@ clean function design.
 | 04 | Generic Inventory Management | A reusable warehouse system for different item categories.
 | 05 | Typed Quiz Engine | A CLI quiz engine with varying question formats.
 | 06 | Shape Calculator | A geometric area calculator for multiple shapes.
+| 07 | Validation Library | A production-ready schema validation library with zero dependencies.
 
 ## How to Run
 
